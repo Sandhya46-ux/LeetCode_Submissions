@@ -8,5 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
