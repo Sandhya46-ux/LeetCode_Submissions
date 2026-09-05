@@ -36,8 +36,6 @@ class Solution {
         int result=Math.max(steal,skip);
         dp.set(i,result);
         return result;
-        // dp.set(i, Math.max(steal, skip));
-        // return dp.get(i);
     }
 }
 
