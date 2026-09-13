@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0198-house-robber) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
