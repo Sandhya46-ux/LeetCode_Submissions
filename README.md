@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0494-target-sum) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0494-target-sum) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -76,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0151-reverse-words-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
