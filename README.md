@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
