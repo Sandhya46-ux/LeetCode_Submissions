@@ -9,7 +9,7 @@
 //         }
 //         int notTake = solve(nums, i - 1, prev);
 //         int take = 0;
-//         if (prev==0 ||nums[i-1]<nums[prev-1]) {
+//         if (prev==0 ||nums[i-1]<nums[prev-1]) 1{
 //             take = 1 + solve(nums, i - 1, i);
 //         }
 //         return Math.max(take, notTake);
@@ -34,7 +34,7 @@
 //         }
 //         if (dp[i][prev] != -1) {
 //             return dp[i][prev];
-//         }
+//         } 
 //         int notTake = solve(nums, i - 1, prev, dp);
 //         int take = 0;
 //         if (prev == 0 || nums[i - 1] < nums[prev - 1]) {
