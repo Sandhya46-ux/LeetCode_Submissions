@@ -1,3 +1,5 @@
+//It is from 0-n
+
 // class Solution {
 //     public int lengthOfLIS(int[] nums) {
 //         int n=nums.length;
