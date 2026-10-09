@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1035-uncrossed-lines) |
+| [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1035-uncrossed-lines) |
+| [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0001-two-sum) |
+| [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
 | ------- |
