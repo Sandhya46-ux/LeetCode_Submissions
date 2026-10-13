@@ -10,7 +10,7 @@
 //         }
 //         int notTake = solve(nums, i - 1, prev);
 //         int take = 0;
-//         if (prev==0 ||nums[i-1]<nums[prev-1]) 1{
+//         if (prev==0 ||nums[i-1]<nums[prev-1]) {
 //             take = 1 + solve(nums, i - 1, i);
 //         }
 //         return Math.max(take, notTake);
@@ -48,20 +48,46 @@
 
 
 
+// class Solution {
+//     public int lengthOfLIS(int[] nums) {
+//         int n = nums.length;
+//         int[][] dp = new int[n + 1][n + 1];
+//         for (int i = 1; i <= n; i++) {
+//             for (int prev = 0; prev <= n; prev++) {
+//                 int notTake = dp[i - 1][prev];
+//                 int take = 0;
+//                 if (prev == 0 || nums[i - 1] < nums[prev - 1]) {
+//                     take = 1 + dp[i - 1][i];
+//                 }
+//                 dp[i][prev] = Math.max(take, notTake);
+//             }
+//         }
+//         return dp[n][0];
+//     }
+// }
+
+
+
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int[][] dp = new int[n + 1][n + 1];
-        for (int i = 1; i <= n; i++) {
-            for (int prev = 0; prev <= n; prev++) {
-                int notTake = dp[i - 1][prev];
-                int take = 0;
-                if (prev == 0 || nums[i - 1] < nums[prev - 1]) {
-                    take = 1 + dp[i - 1][i];
+        ArrayList<Integer> ans = new ArrayList<>();
+        for (int i=0;i<nums.length;i++) {
+            int start=0;
+            int last=ans.size();
+            while(start<last) {
+                int mid=start+(last-start)/2;
+                if(ans.get(mid)<nums[i]){
+                    start=mid+1;
+                }else{
+                    last=mid;
                 }
-                dp[i][prev] = Math.max(take, notTake);
+            }
+            if(start==ans.size()){
+                ans.add(nums[i]);
+            }else{
+                ans.set(start,nums[i]);
             }
         }
-        return dp[n][0];
+        return ans.size();
     }
 }
