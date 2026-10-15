@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Indexed Tree
 |  |
 | ------- |
