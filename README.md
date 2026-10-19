@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1035-uncrossed-lines) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1035-uncrossed-lines) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1143-longest-common-subsequence) |
