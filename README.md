@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Backtracking
 |  |
 | ------- |
