@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 ## Breadth-First Search
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0148-sort-list) |
 | [0354-russian-doll-envelopes](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
@@ -181,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
