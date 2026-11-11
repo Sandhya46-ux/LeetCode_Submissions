@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0877-stone-game) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3908-valid-digit-number](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3908-valid-digit-number) |
 ## Memoization
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
 |  |
 | ------- |
