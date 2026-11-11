@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0509-fibonacci-number) |
 ## Matrix
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1920-build-array-from-permutation) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
