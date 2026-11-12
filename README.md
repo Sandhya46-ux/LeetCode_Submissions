@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1920-build-array-from-permutation](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1920-build-array-from-permutation) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Dynamic Programming
 |  |
