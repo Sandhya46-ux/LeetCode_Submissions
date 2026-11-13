@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0072-edit-distance) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
