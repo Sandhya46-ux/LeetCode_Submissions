@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0312-burst-balloons) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1092-shortest-common-supersequence) |
