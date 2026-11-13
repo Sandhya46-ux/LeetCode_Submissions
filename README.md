@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
+| [0174-dungeon-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0312-burst-balloons) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0174-dungeon-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0312-burst-balloons) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
+| [0174-dungeon-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0174-dungeon-game) |
 ## Combinatorics
 |  |
 | ------- |
