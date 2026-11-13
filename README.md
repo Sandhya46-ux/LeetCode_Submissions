@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1920-build-array-from-permutation](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1920-build-array-from-permutation) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Dynamic Programming
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Minimax
 |  |
 | ------- |
@@ -218,8 +220,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0143-reorder-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0904-fruit-into-baskets) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
