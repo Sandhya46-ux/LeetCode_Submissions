@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0174-dungeon-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0041-first-missing-positive) |
 | [0904-fruit-into-baskets](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
