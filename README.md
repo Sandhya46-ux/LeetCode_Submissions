@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0322-coin-change) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -252,4 +253,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
