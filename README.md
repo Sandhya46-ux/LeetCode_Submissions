@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0997-find-the-town-judge) |
 | [1035-uncrossed-lines](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0041-first-missing-positive) |
 | [0904-fruit-into-baskets](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1048-longest-string-chain) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Backtracking
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
