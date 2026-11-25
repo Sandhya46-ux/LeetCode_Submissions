@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0877-stone-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0733-flood-fill) |
 ## Combinatorics
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Complete Knapsack
@@ -265,12 +268,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandhya46-ux/LeetCode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
