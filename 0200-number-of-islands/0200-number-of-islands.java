@@ -1,5 +1,4 @@
 class Solution {
-
     public int numIslands(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
@@ -46,10 +45,7 @@ class Solution {
                 int nx = x + dx[k];
                 int ny = y + dy[k];
 
-                if (nx >= 0 && nx < m &&
-                    ny >= 0 && ny < n &&
-                    grid[nx][ny] == '1' &&
-                    vis[nx][ny] == 0) {
+                if (nx >= 0 && nx < m && ny >= 0 && ny < n && grid[nx][ny] == '1' &&  vis[nx][ny] == 0) {
 
                     vis[nx][ny] = 1;
                     q.add(new int[]{nx, ny});
